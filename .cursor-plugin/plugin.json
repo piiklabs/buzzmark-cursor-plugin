@@ -1,0 +1,14 @@
+{
+  "name": "buzzmark",
+  "version": "1.0.0",
+  "description": "Write, plan and schedule social media posts in your business's own voice, from Cursor.",
+  "author": {
+    "name": "Piik Labs AB",
+    "email": "support@buzzmark.ai"
+  },
+  "homepage": "https://buzzmark.ai/ai-apps/cursor",
+  "repository": "https://github.com/piiklabs/buzzmark-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["social-media", "scheduling", "marketing", "content", "linkedin", "instagram", "x", "threads", "tiktok", "mcp"],
+  "logo": "assets/logo.png"
+}
