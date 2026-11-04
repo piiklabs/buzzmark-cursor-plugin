@@ -1,6 +1,6 @@
 # Buzzmark for Cursor
 
-Buzzmark writes, plans and schedules social media posts in your business's own voice. This plugin connects Cursor to your Buzzmark account, so you can ask for post ideas and drafts, or plan your week, without leaving the editor.
+Buzzmark is a ghostwriter that writes, plans and schedules social media posts for founders and growing businesses, in their own voice. This plugin connects Cursor to your Buzzmark account, so you can ask for post ideas and drafts, or plan your week, without leaving the editor.
 
 ## What you can ask
 
